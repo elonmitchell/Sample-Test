@@ -1,0 +1,30 @@
+.container {
+  width: 320px;
+  height: auto;
+  margin: 100px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
+.header {
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 40px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input {
+  height: 24px;
+}
+
+.action {
+  width: 100px;
+  height: 40px;
+}
